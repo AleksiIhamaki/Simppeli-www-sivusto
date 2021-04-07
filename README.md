@@ -1,6 +1,6 @@
 <h1 align="center">Pokemon: Indigo League</h1>
 
-<img src="https://github.com/AleksiIhamaki/Simppeli-www-sivusto/blob/main/Pokemon%20indigo%20league.jpg" align="center">
+<img align="center" src="https://github.com/AleksiIhamaki/Simppeli-www-sivusto/blob/main/Pokemon%20indigo%20league.jpg">
 
 Pokemon Indigo League on Pokemonin ensimmäisen sarjan tuotantokauden nimi. Suomessa sarjan esittäminen alkoi 6. marraskuuta 1999 jaksolla "Pokémon! Minä valitsen sinut!" ja päättyi 8. joulukuuta 2001 jaksoon "Ystävä vai vihollinen" jolloin kauden viimeinen jakso jäi jostain syystä näyttämättä.
 
