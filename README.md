@@ -5,4 +5,4 @@ Indigo League
 
 Pokemon Indigo League on Pokemonin ensimmäisen sarjan tuotantokauden nimi. Suomessa sarjan esittäminen alkoi 6. marraskuuta 1999 jaksolla "Pokémon! Minä valitsen sinut!"
 
-Sarjassa esiintyy <a href="https://www.w3schools.com/" target="_blank">Ash Ketchum</a>
+Sarjassa esiintyy <a href="https://www.w3schools.com/" target="_blank">Ash Ketchum</a>,<a href="https://www.w3schools.com/" target="_blank">misty</a>,<a href="https://www.w3schools.com/" target="_blank">Brock</a>,<a href="https://www.w3schools.com/" target="_blank">Jessie</a>,<a href="https://www.w3schools.com/" target="_blank">James</a> sekä heidän ikiomat <a href="https://www.w3schools.com/" target="_blank">pokemonit</a>
