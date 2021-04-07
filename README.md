@@ -1,4 +1,4 @@
-<h1 position="middle">Pokemon: Indigo League</h1>
+<h1 position="center">Pokemon: Indigo League</h1>
 
 <img src="https://github.com/AleksiIhamaki/Simppeli-www-sivusto/blob/main/Pokemon%20indigo%20league.jpg">
 
